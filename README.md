@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://i.postimg.cc/bvBqzZg4/Nexin-RUS-Icon-1.jpg"  />
+<img align="top" height="200" src="https://i.postimg.cc/bvBqzZg4/Nexin-RUS-Icon-1.jpg"  />
 
 ###
 
